@@ -14,7 +14,15 @@ If you want more up-to-date data, the source code that was used to generate the 
 This analysis covered the default dataset found at the prior link, so it is out of date and only includes ~6 months of data.
 
 Question 1: What are the top 5 categories in the Trending tab by view count?
-Answer (in order): Entertainment, Music, Howto & Style, Comedy, People & Blogs
+Answer:
+
+| #  | Category Name     | Count |
+|----|-------------------|-------|
+| 1  | Entertainment     | 9964  |
+| 2  | Music             | 6472  |
+| 3  | Howto & Style     | 4146  |
+| 4  | Comedy            | 3457  |
+| 5  | People & Blogs    | 3210  |
 
 Question 2: What are the top 5 channels by video count?
 Answer:
